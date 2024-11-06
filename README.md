@@ -1,4 +1,4 @@
-# Hello! I am Sean, welcome to my page!
+# Hello! I'm Sean, welcome to my page!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
